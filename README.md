@@ -1,7 +1,7 @@
 ### Prazer me chamo Rafael Pillar 👋
 
-- 🔭 Pretendo Trabalhar com DataScience 
-- 🌱 Estou Estudando: ...
+- 🔭 Atualmente um universitário
+- 🌱 Estudando altualmente, front-end
 - 😄 Pronouns: ele/dele
 
  <div>
