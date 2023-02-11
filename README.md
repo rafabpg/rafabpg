@@ -1,7 +1,7 @@
 ### Prazer me chamo Rafael Pillar 👋
 
 - 🔭 Atualmente um universitário
-- 🌱 Estudando altualmente, front-end
+- 🌱 Estudando altualmente, Back-end
 - 😄 Pronouns: ele/dele
 <div style="display: flex" >
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafabpg&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
