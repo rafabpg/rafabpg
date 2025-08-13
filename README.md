@@ -1,20 +1,23 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-</div>
+<h1 align="center">Hi there 👋, I'm Rafael Pillar</h1>
+<h3 align="center">Full Stack & Cloud Engineer — React · Node.js · Python · AWS · DevOps · Mobile</h3>
 
-# Nice to meet you! I'm Rafael Pillar 👋  
+---
 
-- 🔭 Currently a university student  
-- 🌱 Full Stack Developer  
-- 😄 Pronouns: he/him  
+### 🚀 About Me
+- 🎓 University student passionate about **technology and problem-solving**  
+- 💻 Experienced in building **scalable applications** and **intuitive UIs**  
+- ☁ Skilled in **Cloud, DevOps, and Mobile development**  
+- 🌱 Always learning and exploring new tools and frameworks  
+- 🤝 Open to collaborating on innovative and impactful projects  
 
-## About Me  
+---
 
-✨ I'm a passionate developer who thrives on creative challenges and innovative solutions. I enjoy pushing the boundaries of programming by blending art and technology to build unique, engaging experiences.  
+<div>  
+  <a href="https://www.instagram.com/rafa.pillar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/rafael-pillar-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>  
 
-With expertise in full-stack development, I specialize in crafting scalable web applications and intuitive user interfaces. I'm always eager to explore new technologies, refine my skills, and collaborate on exciting projects that make an impact. ✨  
-
-## 🚀 Technical Skills  
+## 🛠 Technical Skills  
 
 - Programming Languages:  
 
@@ -22,7 +25,7 @@ With expertise in full-stack development, I specialize in crafting scalable web 
 
 - Frameworks and Libraries:  
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django,flask,flutter,express,rails)](https://skillicons.dev)  
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,django,flask,flutter,express,rails,fastapi)](https://skillicons.dev)  
 
 - Databases:  
 
@@ -30,21 +33,16 @@ With expertise in full-stack development, I specialize in crafting scalable web 
 
 - Tools and Technologies:  
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,vscode,docker)](https://skillicons.dev)  
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,vscode,docker,aws,kubernetes)](https://skillicons.dev)  
 
 - Web Development:  
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)  
 
-## 📫 My Socials !!!  
+---
 
-<div>  
-  <a href="https://www.instagram.com/rafa.pillar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/rafapillar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>  
-
-<br>  
-
-![RafaelPillar GitHub MostUsedLanguage](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafabpg&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true)  
-<br>  
-![RafaelPillar GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabpg&show_icons=true&theme=dracula)  
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafabpg&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabpg&layout=compact&theme=radical" height="165">
+</p>
